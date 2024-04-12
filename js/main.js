@@ -83,7 +83,7 @@
 
    /* swiper
     * ------------------------------------------------------ */ 
-    const ssSwiper = function() {
+    /*const ssSwiper = function() {
 
         const homeSliderSwiper = new Swiper('.home-slider', {
 
@@ -143,7 +143,7 @@
         });
 
     }; // end ssSwiper
-
+*/
 
    /* mailchimp form
     * ---------------------------------------------------- */ 
