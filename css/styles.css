@@ -3669,6 +3669,11 @@ td:last-child {
 	position      : relative;
 }
 
+.activiteit-foto {
+	width        : 70%;
+	height       : 70%;
+}
+
 .s-intro__content-media .lines {
 	--line-color : var(--color-1-darker);
 	width        : 100%;
