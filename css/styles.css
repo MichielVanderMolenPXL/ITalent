@@ -3674,6 +3674,11 @@ td:last-child {
 	height       : 70%;
 }
 
+.activiteit-foto-logoSoleations {
+	width        : 90%;
+	height       : 90%;
+}
+
 .s-intro__content-media .lines {
 	--line-color : var(--color-1-darker);
 	width        : 100%;
